@@ -1,4 +1,4 @@
-- Hi, I’m @currentc57 (Charles Current)
+- Hi, I’m Charles Current, host of The Lock Sportscast podcast.
 - I’m interested in locksport and hobby electronics, including robotics.
 - I’m currently working on developing a robotic safe dialer and creating Spin libraries for the Parallax Propeller and Propeller 2 microcontrollers.
 
